@@ -1,0 +1,32 @@
+
+Files:             record_dataset_3_0.db3
+Bag size:          1.1 GiB
+Storage id:        sqlite3
+Duration:          26.829050218s
+Start:             Sep 25 2024 17:42:14.751535114 (1727278934.751535114)
+End:               Sep 25 2024 17:42:41.580585332 (1727278961.580585332)
+Messages:          19708
+Topic information: Topic: /alpo/base/controller/odom | Type: nav_msgs/msg/Odometry | Count: 257 | Serialization Format: cdr
+                   Topic: /alpo/gps/nmea_sentence | Type: nmea_msgs/msg/Sentence | Count: 4386 | Serialization Format: cdr
+                   Topic: /alpo/imu/velocity | Type: geometry_msgs/msg/TwistStamped | Count: 2578 | Serialization Format: cdr
+                   Topic: /alpo/joystick/joy/set_feedback | Type: sensor_msgs/msg/JoyFeedback | Count: 0 | Serialization Format: cdr
+                   Topic: /alpo/imu/mag | Type: sensor_msgs/msg/MagneticField | Count: 2579 | Serialization Format: cdr
+                   Topic: /alpo/gps/ntrip/nmea | Type: nmea_msgs/msg/Sentence | Count: 0 | Serialization Format: cdr
+                   Topic: /parameter_events | Type: rcl_interfaces/msg/ParameterEvent | Count: 0 | Serialization Format: cdr
+                   Topic: /alpo/joystick/joy | Type: sensor_msgs/msg/Joy | Count: 163 | Serialization Format: cdr
+                   Topic: /alpo/gps/vel | Type: geometry_msgs/msg/TwistStamped | Count: 242 | Serialization Format: cdr
+                   Topic: /rosout | Type: rcl_interfaces/msg/Log | Count: 28 | Serialization Format: cdr
+                   Topic: /diagnostics | Type: diagnostic_msgs/msg/DiagnosticArray | Count: 106 | Serialization Format: cdr
+                   Topic: /alpo/camera/image_synchro | Type: sensor_msgs/msg/Image | Count: 134 | Serialization Format: cdr
+                   Topic: /alpo/imu/imu_data_str | Type: std_msgs/msg/String | Count: 2579 | Serialization Format: cdr
+                   Topic: /alpo/lidar/pointcloud_synchro | Type: sensor_msgs/msg/PointCloud2 | Count: 134 | Serialization Format: cdr
+                   Topic: /tf_static | Type: tf2_msgs/msg/TFMessage | Count: 4 | Serialization Format: cdr
+                   Topic: /alpo/imu/data | Type: sensor_msgs/msg/Imu | Count: 2579 | Serialization Format: cdr
+                   Topic: /alpo/base/bridge/vehicle_controller/odom | Type: nav_msgs/msg/Odometry | Count: 268 | Serialization Format: cdr
+                   Topic: /tf | Type: tf2_msgs/msg/TFMessage | Count: 462 | Serialization Format: cdr
+                   Topic: /alpo/gps/fix | Type: sensor_msgs/msg/NavSatFix | Count: 258 | Serialization Format: cdr
+                   Topic: /alpo/robot_description | Type: std_msgs/msg/String | Count: 1 | Serialization Format: cdr
+                   Topic: /alpo/gps/ntrip/rtcm | Type: mavros_msgs/msg/RTCM | Count: 114 | Serialization Format: cdr
+                   Topic: /alpo/base/controller/odometry | Type: romea_mobile_base_msgs/msg/OneAxleSteeringMeasureStamped | Count: 257 | Serialization Format: cdr
+                   Topic: /alpo/joint_states | Type: sensor_msgs/msg/JointState | Count: 2579 | Serialization Format: cdr
+
